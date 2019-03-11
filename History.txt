@@ -1,0 +1,17 @@
+Samuels-MacBook-Pro:L0 Sam$ history
+    1  /Volumes/CadSoft\ EAGLE\ 7.3.0/EAGLE ; exit;
+    2  /Applications/EnergyPlus-8-9-0/libenergyplusapi.8.9.0.dylib ; exit;
+    3  "/usr/bin/runenergyplus" "/Applications/EnergyPlus-8-3-0/ExampleFiles/BasicsFiles/Exercise1A.idf"
+    4  python espota.py -i 192.168.0.10 -p 8266 --auth= -f /Users/Sam/Downloads/v7.3/AmbMaster-Unified.ino.bin 
+    5  ping 192.168.0.10
+    6  ping ambmaster.local
+    7  python espota.py -i 192.168.0.10 -p 8266 --auth= -f /Users/Sam/Downloads/v7.3/AmbMaster-Unified.ino.bin 
+    8  git add Texto.txt
+    9  git commit -m "subiendo texto definitivo"
+   10  git push
+   11  git push
+   12  history
+   13  git pull
+   14  history
+
+Como comentarios, se me reinicio el computador por lo que no aparece cuando clone con git clone https://github.com/IIC2115/Syllabus.git. Ni tampoco cuando clone mi repositorio git clone https://github.com/samtn4/L0.git.
